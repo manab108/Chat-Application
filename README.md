@@ -18,12 +18,12 @@ Check out the live app on Vercel: [Chat App](https://chat-application-v1-five.ve
 * Frontend: React, React Router, React Toastify
 * Backend: Firebase (Authentication, Firestore)
 * Styling: Custom CSS
-* Environment: Node.js, Create React App
+* Environment: Node.js
 
 # Usage
 
 * Sign Up: Create an account with a username, email, and password.
 * Set Profile: Enter your name and bio.
-* Search Users: Use the search bar to find other users by username.
+* Search Users: Use the search bar to find other users by username.(Search "Manab" or "Manabendra" - two dummy user created)
 * Chat: Select a user to start a chat and send text messages.
 * Logout: Click the menu and select "Logout".
